@@ -5,4 +5,4 @@ public:
     Child(){};
     ~Child(){};
     virtual void print();
-};
+}
