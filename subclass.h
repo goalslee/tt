@@ -1,4 +1,4 @@
-#include"mainclass.h"
+include"mainclass.h"
 class Child:public Father
 {
 public:
