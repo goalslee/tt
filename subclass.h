@@ -7,4 +7,4 @@ public:
     virtual void print();
 };
 hh
-d
+dd
