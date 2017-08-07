@@ -4,5 +4,4 @@ class Child:public Father
 public:
     Child(){};
     ~Child(){};
-    virtual void print();
-};
+    virtual void print()}
