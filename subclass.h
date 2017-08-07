@@ -6,3 +6,4 @@ public:
     ~Child(){};
     virtual void print();
 };
+hh
