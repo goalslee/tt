@@ -1,4 +1,4 @@
-nclude"mainclass.h"
+clude"mainclass.h"
 class Child:public Father
 {
 public:
